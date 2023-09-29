@@ -1,0 +1,11 @@
+img{
+    width: 4.8rem;
+    height: 3.5rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+strong{
+    color: rgb(81, 21, 165);
+    font-size:large;
+    margin-left: 1px;
+}
